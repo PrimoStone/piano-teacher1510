@@ -1,0 +1,20 @@
+{
+  "name": "web-piano-teacher",
+  "version": "1.0.0",
+  "description": "A web-based piano teacher application",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["piano", "music", "education"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pitchy": "^2.0.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
